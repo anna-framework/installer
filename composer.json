@@ -1,4 +1,13 @@
 {
+    "name": "anna-framework/installer",
+    "description": "Instalacao do Anna Framework",
+    "authors": [
+        {
+            "name": "cmgomes",
+            "email": "cmgomes.es@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "App\\": "App\/"
