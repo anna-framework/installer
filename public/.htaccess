@@ -15,6 +15,6 @@
     RewriteRule ^ index.php [L]
 </IfModule>
 
-ErrorDocument 404 teste-anna/erros/404.html
-ErrorDocument 405 teste-anna/erros/405.html
-ErrorDocument 500 teste-anna/erros/500.html
+ErrorDocument 404 /errors/404.html
+ErrorDocument 405 /errors/405.html
+ErrorDocument 500 /errors/500.html
