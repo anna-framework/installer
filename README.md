@@ -1,13 +1,19 @@
-# Anna PHP Framework
+## Anna PHP Installer
 
-Anna é um framework PHP focado no desenvolvedor. Tras facilidades na criação e desenvolvimento com uma baixa curva de aprendizado. Para tanto, utiliza uma quantidade de componentes
-menor, para pesar menos e ser mais preciso.
+Este é o instalador do framework Anna PHP, para mais informações acesse: https://github.com/anna-framework/anna
 
+## Instalação
+Instale a Anna via composer:
+```
+composer crate-project anna-framework/installer
+```
 
-### Documentação Oficial
+Você pode também clonar este projeto
+```
+git clone https://github.com/anna-framework/anna.git
+```
 
-A documentação oficial poderá ser lida em breve em [Anna website](http://anna.com/docs).
-
-### Licença
-
-Anna PHP será disponibilizado através da licença open-source do MIT [MIT license](http://opensource.org/licenses/MIT)
+E depois executar instalar os componentes do composer:
+```
+composer install
+```
