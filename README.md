@@ -13,7 +13,7 @@ Você pode também clonar este projeto
 git clone https://github.com/anna-framework/anna.git
 ```
 
-E depois executar instalar os componentes do composer:
+E depois executar o instalador para adicionar os componentes do composer:
 ```
 composer install
 ```
