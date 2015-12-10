@@ -38,5 +38,5 @@ return [
     /*
      * Informa ao serviço de work manager qual a quantidade de memória que ele deve manter-se limitado, caso zero não haverá verificação de memória
      */
-    'work-limit-memory' => 25
+    'work-limit-memory' => 25,
 ];

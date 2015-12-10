@@ -12,19 +12,19 @@
  */
 
 return [
-		
-	/**
-	 * Para renderizar suas views, você pode utilizar as engines: blade, twig ou mustache
-	 */
-	'view-engine' => 'blade',
 
-	/*
-	 *  Local onde é armazenado as views, sinta-se livre para alterar
-	 */
-	'view-folder' => 'App/Views/',
+    /*
+     * Para renderizar suas views, você pode utilizar as engines: blade, twig ou mustache
+     */
+    'view-engine' => 'blade',
 
-	/*
-	 * local onde será armazenado os caches das views 
-	 */
-	'cache-folder' => 'cache/'
+    /*
+     *  Local onde é armazenado as views, sinta-se livre para alterar
+     */
+    'view-folder' => 'App/Views/',
+
+    /*
+     * local onde será armazenado os caches das views 
+     */
+    'cache-folder' => 'cache/',
 ];
