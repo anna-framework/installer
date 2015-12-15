@@ -15,6 +15,6 @@
         }
     },
     "require": {
-        "anna-framework/anna": "dev-master"
+        "anna-framework/anna": "1.*"
     }
 }
