@@ -16,5 +16,11 @@
     },
     "require": {
         "anna-framework/anna": "1.*"
+    },
+    "scripts": {
+        "post-autoload-dump":[
+            "chmod +x anna",
+            "./anna LimpaGit"
+        ]
     }
 }
