@@ -21,8 +21,10 @@
     },
     "scripts": {
         "post-autoload-dump":[
+            "mkdir cache",
             "chmod +x anna",
-            "./anna LimpaGit"
+            "./anna LimpaGit",
+            "chmod 777 cache"
         ]
     }
 }
